@@ -1,0 +1,41 @@
+.style {
+  text-align: center;
+}
+
+.container {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  margin-bottom: 20px;
+  padding: 20px;
+  background-color: #f5f5f5;
+}
+
+.data-item {
+  background-color: #ff4d4f;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  padding: 8px 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.data-item:hover {
+  background-color: #ff7875;
+}
+
+.img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+}
+
+h3.style {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+p.style {
+  font-size: 16px;
+  color: #666;
+}
