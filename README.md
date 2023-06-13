@@ -1,3 +1,9 @@
+# Tugas-PAS2-JAVASCRIPT-Baratha-wijaya
+Tugas PAS Baratha wijaya 07 Juni 2023
+
+- 1.Data barang merupakan enkapsulasi dari file tokoKelontong.java.
+- 2.PAS Javascript semester 1 ini adalah permulaan,benahi untuk tahun depan,supaya lebih baik.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
