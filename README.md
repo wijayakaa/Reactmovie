@@ -1,7 +1,7 @@
 # Tugas-PAS2-JAVASCRIPT-Baratha-wijaya
 Tugas PAS Baratha wijaya 07 Juni 2023
 
-- PAS Javascript semester 1 ini adalah permulaan,benahi untuk tahun depan,supaya lebih baik.
+- PAS Javascript semester 2 ini adalah permulaan,benahi untuk tahun depan,supaya lebih baik.
 
 # Getting Started with Create React App
 
